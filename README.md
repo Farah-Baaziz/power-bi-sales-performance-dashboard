@@ -21,7 +21,6 @@ The report contains two pages and includes:
 power-bi-sales-performance-dashboard/
 ├── README.md
 ├── SECURITY.md
-├── GUIDE_FR.md
 ├── .gitignore
 └── report/
     └── ProjetBI.pbix
