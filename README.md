@@ -20,7 +20,6 @@ The report contains two pages and includes:
 ```text
 power-bi-sales-performance-dashboard/
 ├── README.md
-├── SECURITY.md
 ├── .gitignore
 └── report/
     └── ProjetBI.pbix
